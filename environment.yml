@@ -1,7 +1,9 @@
 dependencies:
-    python=3
-    pip:
-        numpy
-        tensorflow
-        scipy
-        sklearn
+  - python=3
+  - pip:
+    - ipykernel
+    - scipy
+    - numpy
+    - scikit-learn
+    - matplotlib
+    - pandas
