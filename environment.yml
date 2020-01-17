@@ -1,7 +1,7 @@
 dependencies:
     python=3
     pip:
-	numpy
-	tensorflow
-	scipy
-	sklearn
+        numpy
+        tensorflow
+        scipy
+        sklearn
